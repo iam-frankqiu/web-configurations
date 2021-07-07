@@ -19,7 +19,7 @@ or with yarn
 ```
 ## Usage
 
-Reference @jdp-dev/prettier-config in your package.json.
+Reference @base/prettier-config in your package.json.
 
 
 ```javascript
