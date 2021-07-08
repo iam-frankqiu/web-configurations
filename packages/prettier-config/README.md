@@ -31,6 +31,15 @@ Reference @base/prettier-config in your package.json.
 
 ```
 
+
+## Screenshots
+
+Formatted before VS Formatted after
+
+<img src="./image/formatted_before.png" alt="formatted before" width="45%" style="margin-right: 10px">
+
+<img src="./image/formatted_after.png" alt="formatted after" width="46%" style="margin-left: 10px">
+
   
 ## License
 
