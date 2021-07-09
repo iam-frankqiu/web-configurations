@@ -2,11 +2,26 @@
   "name": "@base/prettier-config",
   "version": "1.0.0",
   "description": "My shareable prettier config",
-  "main": "index.js",
+  "main": "index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iam-frankqiu/web-configurations",
+    "directory": "packages/prettier-config"
+  },
+   "bugs": {
+    "url": "https://github.com/iam-frankqiu/web-configurations/issues"
+  },
+  "homepage": "https://github.com/iam-frankqiu/web-configurations/tree/main/packages/prettier-config",
+  "files": [
+    "image/"
+  ],
   "author": "Frank Qiu <iam.frankqiu@gmail.com>",
   "license": "MIT"
 }
