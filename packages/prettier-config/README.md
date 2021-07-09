@@ -1,5 +1,5 @@
 
-# @base/prettier-config
+# @configurations/prettier-config
 ![GitHub](https://img.shields.io/github/license/iam-frankqiu/web-configurations)
 
 My shareable prettier config.
@@ -10,24 +10,24 @@ My shareable prettier config.
 Install  with npm
 
 ```bash
-  npm install --save-dev @base/prettier-config
+  npm install --save-dev @configurations/prettier-config
 ```
 
 or with yarn
 
 ```bash
-  yarn add --dev @base/prettier-config
+  yarn add --dev @configurations/prettier-config
 ```
 ## Usage
 
-Reference @base/prettier-config in your package.json.
+Reference @configurations/prettier-config in your package.json.
 
 
 ```javascript
 {
   "name": "my-cool-library",
   "version": "9000.0.1",
-  "prettier": "@base/prettier-config"
+  "prettier": "@configurations/prettier-config"
 }
 
 ```
