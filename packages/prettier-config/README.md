@@ -1,5 +1,6 @@
 
 # @base/prettier-config
+![GitHub](https://img.shields.io/github/license/iam-frankqiu/web-configurations)
 
 My shareable prettier config.
 
