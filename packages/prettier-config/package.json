@@ -1,6 +1,6 @@
 {
   "name": "@configurations/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "My shareable prettier config",
   "main": "index.json",
   "scripts": {

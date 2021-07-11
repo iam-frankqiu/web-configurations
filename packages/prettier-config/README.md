@@ -15,7 +15,7 @@ Install  with npm
   npm install --save-dev @configurations/prettier-config
 ```
 
-or with yarn
+Or with yarn
 
 ```bash
   yarn add --dev @configurations/prettier-config
