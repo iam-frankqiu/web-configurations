@@ -1,7 +1,8 @@
 
 # @configurations/prettier-config
-![GitHub](https://img.shields.io/github/license/iam-frankqiu/web-configurations)
+![npm (scoped)](https://img.shields.io/npm/v/@configurations/prettier-config)
 ![npm bundle size (scoped)](https://img.shields.io/bundlephobia/min/@configurations/prettier-config)
+![GitHub](https://img.shields.io/github/license/iam-frankqiu/web-configurations)
 
 My shareable prettier config.
 
