@@ -1,0 +1,12 @@
+{
+  "name": "@configurations/tsconfig",
+  "version": "1.0.0",
+  "description": "My shareable tsconfig",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Frank Qiu <iam.frankqiu@gmail.com>",
+  "license": "MIT"
+}
