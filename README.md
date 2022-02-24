@@ -5,7 +5,7 @@
 ![GitHub](https://img.shields.io/github/license/iam-frankqiu/web-configurations)
 
 
-Some shared configurations of Prettier, Eslint, and so on.
+Some shared configurations of Prettier, Eslint, and so on.(To be continued)
 
 ## Configurations
 
